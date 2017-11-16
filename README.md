@@ -11,8 +11,11 @@ This project was bootstrapped with [Create React Native App](https://github.com/
   * [npm run eject](#npm-run-eject)
 
 ## Available Scripts
+### git clone this project
 
-If Yarn was installed when the project was initialized, then dependencies will have been installed via Yarn, and you should probably use it to run these commands as well. Unlike dependency installation, command running syntax is identical for Yarn and NPM at the time of this writing.
+### make sure to use `npm <5` or it might break, currently using `npm 4.2 and node v7.10.1`
+
+### `npm install` first
 
 ### `npm start`
 
@@ -24,8 +27,6 @@ Sometimes you may need to reset or clear the React Native packager's cache. To d
 
 ```
 npm start -- --reset-cache
-# or
-yarn start -- --reset-cache
 ```
 
 #### `npm test`
