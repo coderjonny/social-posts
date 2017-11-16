@@ -34,7 +34,7 @@ export default class PostList extends React.Component {
 const styles = StyleSheet.create({
   list: {
     flex: 1,
-    paddingTop: 40
+    paddingTop: 20
   },
   body: {
     padding: 20,
